@@ -33,13 +33,25 @@ III.	Données
 On va appliquer les algorithmes développés sur les données du cours ainsi que sur datasets de petite, moyenne et grande échelle.
 Données du cours :
 | Capacité maximale   | Nbre d’objets  | 
-|---------------------|:--------------:|
+|---------------------|----------------|
 |      10             |         5      |
  
-	       |1 	2	   3   4	5
-         |-|:---:|
-|Values	|40	50	100	95	30
-|Weights|	2  	3	   1 	5  	3
+ 
+ 
+ 
+|       |1 	|2	|   3    | 4	|5      |
+|-------|-------|-------|--------|------|-------|         
+|Values	|40	|50	|100	|95	|30     |
+|Weights|2  	|3	|   1 	|5  	|3      |
+
+
+Datasets : J’ai fait le choix de travailler sur ces 4 datasets 
+
+|Petite échelle	 |Capacité maximale|	Nbre d’objets|		|Grande échelle	     |Capacité maximale	|Nbre d’objets|
+|----------------|-----------------|-----------------|----------|--------------------|-----------------------|-------------|  
+|f1_l-d_kp_10_269|	269        |	           10|		| knapPI_1_100_1000_1|	1000	             |100          |
+f2_l-d_kp_20_878 |	878        |	20	     |    	|knapPI_3_200_1000_1 |	1000	             |200          |
+
 
 
 IV.	Résultats
